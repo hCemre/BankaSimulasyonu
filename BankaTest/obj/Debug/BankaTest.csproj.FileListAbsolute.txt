@@ -1,0 +1,15 @@
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.csprojAssemblyReference.cache
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Faiz_Hesapla.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form4.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Faiz.resources
+C:\Users\Genel Müdür\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.FaizForm.resources
